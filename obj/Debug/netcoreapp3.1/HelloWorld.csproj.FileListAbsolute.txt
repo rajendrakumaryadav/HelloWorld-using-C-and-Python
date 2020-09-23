@@ -1,0 +1,9 @@
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/home/raju/Downloads/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/raju/Downloads/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/raju/Downloads/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/raju/Downloads/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
