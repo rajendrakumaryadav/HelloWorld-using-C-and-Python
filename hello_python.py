@@ -1,6 +1,6 @@
 import clr  
 #Adding reference to class library!  
-clr.AddReference('.\\bin\\Debug\\netcoreapp3.1\\HelloWorld.dll')
+clr.AddReference('.\\HelloWorld.dll')
  
 #importing specific class from this namespace, here!  
 import Class1
